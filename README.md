@@ -4,12 +4,20 @@ Group members: Elizabeth Kilby and Katie Holbrook
 
 Links:
 -------put youtube video links here----------
+https://youtu.be/sjfD3MKjb7Y?si=onRjjS4582A1UKA0
+https://youtu.be/uI5ps5DbFgI?si=GHete4-zOX7JQmvs
+https://youtu.be/l3mNkcY4I8g?si=6I9KXOSImFZg-gbV
+https://youtu.be/O9JZ6HYxA1c?si=KIDAbMZHq8sWtWxm
 
 Sources:
   In addition to class material, the textbook, and the lab videos, we each used other sources to help us design
   the FPS game. Neither of us used any AI. Here are the links to the additional videos we used.
   
   --------add links to videos we used--------------
+  https://youtu.be/sjfD3MKjb7Y?si=onRjjS4582A1UKA0
+  https://youtu.be/uI5ps5DbFgI?si=GHete4-zOX7JQmvs
+  https://youtu.be/l3mNkcY4I8g?si=6I9KXOSImFZg-gbV
+  https://youtu.be/O9JZ6HYxA1c?si=KIDAbMZHq8sWtWxm
   
 Contributions:
   We were each in charge of making one unique level with the required hazards, targets, health, and limited ammo. 
@@ -34,7 +42,12 @@ Contributions:
       Once the player has successfully destroyed all three targets, the third level will automatically load.
 
     Level 3
-      ------------add stuff here---------------------
+      This level takes place in a house. Within this house, a player must go through different rooms and avoid obsticles to then move on. Each
+      target cube has a health bar that begins at 100 and decreases by 20 after each hit by the projectile. After the healthbar of these targets
+      ultimately empty, the target is destroyed. To get to these targets, a player must get around multiple different spike traps that cause damage. 
+      The players health bar begins at 100, but as a result of running into these traps, the players health decreases by 20. With this there are
+      multiple different health pickups that are avalible for players to try to get to. Once all of the targets are successfully destroyed, the level
+      will finish.
 
 Meetings:
   We are roommates so communication and meeting times were fairly easy. In addition to outside of class, we met during class times and in lab.
