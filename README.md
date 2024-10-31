@@ -3,14 +3,17 @@
 Group members: Elizabeth Kilby and Katie Holbrook
 
 Links:
+
 -------put youtube video links here----------
 
 Sources:
+
   In addition to class material, the textbook, and the lab videos, we each used other sources to help us design
   the FPS game. Neither of us used any AI. Here are the links to the additional videos we used.
   --------add links to videos we used--------------
   
 Contributions:
+
   We were each in charge of making one unique level with the required hazards, targets, health, and limited ammo. 
   Elizabeth made the second level and Katie made the third level. Then, we worked together to make the first menu level
   and loaded the levels in order. Finally, we recorded and edited the two videos together as well. The workload was fair and
