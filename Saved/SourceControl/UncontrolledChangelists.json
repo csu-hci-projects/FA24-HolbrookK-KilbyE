@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/elizkilb/OneDrive - Colostate/310h/HW1/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/elizkilb/OneDrive - Colostate/310h/HW1/MyProject/Content/MainMenuMap.umap",
+				"C:/Users/elizkilb/OneDrive - Colostate/310h/HW1/MyProject/Content/UI/MainMenu.uasset",
+				"C:/Users/elizkilb/OneDrive - Colostate/310h/HW1/MyProject/Content/UI/MenuGameMode.uasset"
+			]
+		}
+	]
+}
