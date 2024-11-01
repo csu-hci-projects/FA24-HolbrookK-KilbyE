@@ -14,15 +14,18 @@ Sources:
   In addition to class material, the textbook, and the lab videos, we each used other sources to help us design
   the FPS game. Neither of us used any AI. Here are the links to the additional videos we used.
   
-  https://youtu.be/sjfD3MKjb7Y?si=onRjjS4582A1UKA0
+  Health pickups: https://youtu.be/sjfD3MKjb7Y?si=onRjjS4582A1UKA0
   
-  https://youtu.be/uI5ps5DbFgI?si=GHete4-zOX7JQmvs
+  Health system: https://www.youtube.com/watch?v=wHXTtXdunsY 
   
-  https://youtu.be/l3mNkcY4I8g?si=6I9KXOSImFZg-gbV
+  Target/enemy damage system: https://youtu.be/uI5ps5DbFgI?si=GHete4-zOX7JQmvs
   
-  https://youtu.be/O9JZ6HYxA1c?si=KIDAbMZHq8sWtWxm
+  Spike trap: https://youtu.be/l3mNkcY4I8g?si=6I9KXOSImFZg-gbV
+  
+  Ammo system: https://youtu.be/O9JZ6HYxA1c?si=KIDAbMZHq8sWtWxm
+  
+  Menu level: https://www.youtube.com/watch?v=kumZj_mov58
 
-  https://www.youtube.com/watch?v=kumZj_mov58
   
 Contributions:
   We were each in charge of making one unique level with the required hazards, targets, health, and limited ammo. 
