@@ -2,7 +2,7 @@
 
 Group members: Elizabeth Kilby and Katie Holbrook
 
-Level demo:
+Levels demo:
 [https://youtu.be/Us6qZ-hV2Zo
 ](https://youtu.be/HR0BbHuhsvI
 )
