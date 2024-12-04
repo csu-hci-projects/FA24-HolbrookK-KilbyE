@@ -12,30 +12,10 @@ Sources:
   --------add links to videos we used--------------
   
 Contributions:
-  We were each in charge of making one unique level with the required hazards, targets, health, and limited ammo. 
-  Elizabeth made the second level and Katie made the third level. Then, we worked together to make the first menu level
-  and loaded the levels in order. Finally, we recorded and edited the two videos together as well. The workload was fair and
-  each member contributed an equal amount.
+  We decided to split up the tasks in half. Elizabeth did 1 through 5 and Katie did 6 through 10. Additionally, we each attempted to do a challenge task for extra credit. Each group member wrote 1 page of the AI report and we worked on the README and videos together. The workload was fair and each member contributed an equal amount.
 
-  The game:
-  
-    Level 1
-      This level is a menu scene where the player may begin the game by clicking "start." After clicking start, the second 
-      level will be automatically loaded. There is also an option for the player to exit the game by clicking the "quit" 
-      button.
-      
-    Level 2
-      This level takes place in a castle courtyard where the player must destroy all three targets to move to the next level. Each
-      target has a health bar that starts at 100. After each hit, the target health decreases by 25. Once at zero, the target is 
-      destroyed. However, the player only has five ammunition projectiles. Since ammo is limmited to five, ammo pickups are available which 
-      each give the player two more projectiles. Similarly, health pickups are available and will increase the player's health by 10. The 
-      player must avoid the water, as it will damage the player's health. If the player's health goes to zero, the level will automatically
-      restart. The targets, ammo pickups, and health pickups are all strategiucally placed in areas where the player may easily touch the water.
-      Once the player has successfully destroyed all three targets, the third level will automatically load.
-
-    Level 3
-      ------------add stuff here---------------------
-
+The game:
+  This game uses the Meta Quest 3 VR Headset. It starts on a stone path over water. After the player enters the doorway, a set of tables and chairs are on the left. These chairs are all grabbable items that the player is able to pick up and throw. On the right side of the path, there are 2 more grabbable items on concrete pedestals. One is a metal ball and the other is a statue. Continuing down the path and through a doorway, the player can find a pistol to their left. This pistol has a current ammo count to the upper right of the gun. The default ammo count is 12 and will decrement with every shot. -----ADD YOUR STUFF HERE-----
+    
 Meetings:
-  We are roommates so communication and meeting times were fairly easy. In addition to outside of class, we met during class times and in lab.
-  Here were a few class/lab meeting dates: 10/11, 10/18, 10/23, 10/25, 10/28. We also met at 5pm on Thursdays to work on the project together.
+  We are roommates so communication and meeting times were fairly easy. In addition to outside of class, we met during class times and in lab. Here were a few class/lab meeting dates: 11/25, 11/27, 11/29, 12/2, 12/4. We also met at 5pm on Thursdays to work on the project together.
