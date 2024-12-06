@@ -3,6 +3,7 @@
 Group members: Elizabeth Kilby and Katie Holbrook
 
 Demonstration video: ------------------
+
 Longer Blueprint video: ----------------
 
 Sources:
