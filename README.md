@@ -2,14 +2,11 @@
 
 Group members: Elizabeth Kilby and Katie Holbrook
 
-Links:
--------put youtube video links here----------
+Demonstration video: ------------------
+Longer Blueprint video: ----------------
 
 Sources:
-  In addition to class material, the textbook, and the lab videos, we each used other sources to help us design
-  the FPS game. Neither of us used any AI. Here are the links to the additional videos we used.
-  
-  --------add links to videos we used--------------
+  We used the class material, textbook, and the lab videos as resources for this project. Additionally, one of us used AI to clarify and aid any confusing moments. More details on AI use can be found in our AI report.
   
 Contributions:
   We decided to split up the tasks in half. Elizabeth did 1 through 5 and Katie did 6 through 10. Additionally, we each attempted to do a challenge task for extra credit. Each group member wrote 1 page of the AI report and we worked on the README and videos together. The workload was fair and each member contributed an equal amount.
